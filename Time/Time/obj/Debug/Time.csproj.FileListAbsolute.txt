@@ -1,0 +1,11 @@
+E:\Test\cc#\Time\Time\bin\Debug\Time.exe.config
+E:\Test\cc#\Time\Time\bin\Debug\Time.exe
+E:\Test\cc#\Time\Time\bin\Debug\Time.pdb
+E:\Test\cc#\Time\Time\obj\Debug\Time.csproj.AssemblyReference.cache
+E:\Test\cc#\Time\Time\obj\Debug\Time.csproj.SuggestedBindingRedirects.cache
+E:\Test\cc#\Time\Time\obj\Debug\Time.Form1.resources
+E:\Test\cc#\Time\Time\obj\Debug\Time.Properties.Resources.resources
+E:\Test\cc#\Time\Time\obj\Debug\Time.csproj.GenerateResource.cache
+E:\Test\cc#\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+E:\Test\cc#\Time\Time\obj\Debug\Time.exe
+E:\Test\cc#\Time\Time\obj\Debug\Time.pdb
